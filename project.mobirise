@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "AsimArt",
-    "currentPage": "Gallery.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -572,11 +572,11 @@
           "hrColor": "border-color:#000;",
           "hrShadowColor": "#000",
           "hrThickness": "border-top-width:4px;",
-          "hrFullWidth": "min-width:100%;",
+          "hrFullWidth": "min-width:0%;",
           "hrWidth": "width:100%;",
           "hrStyle": "border-style:solid; border-radius: 5px; ",
           "hrPaddingBlock": "padding-bottom:20px; padding-top:20px;",
-          "hrDrawStyle": "min-width:100%;width:100%;border-color:#000;border-style:solid; border-radius: 5px; border-top-width:4px;",
+          "hrDrawStyle": "min-width:0%;width:100%;border-color:#000;border-style:solid; border-radius: 5px; border-top-width:4px;",
           "_params": {
             "hrColor": "#000",
             "bgColor": "#fff",
@@ -588,7 +588,7 @@
             "hrStyleShadow": false,
             "hrColorShadow": "#000",
             "hrThickness": "4",
-            "hrFullWidth": true,
+            "hrFullWidth": false,
             "hrWidth": 100,
             "hrPaddingBlock": 10
           },
@@ -1182,11 +1182,11 @@
           "hrColor": "border-color:#000;",
           "hrShadowColor": "#000",
           "hrThickness": "border-top-width:4px;",
-          "hrFullWidth": "min-width:100%;",
+          "hrFullWidth": "min-width:0%;",
           "hrWidth": "width:100%;",
           "hrStyle": "border-style:solid;",
           "hrPaddingBlock": "padding-bottom:20px; padding-top:20px;",
-          "hrDrawStyle": "min-width:100%;width:100%;border-color:#000;border-style:solid;border-top-width:4px;",
+          "hrDrawStyle": "min-width:0%;width:100%;border-color:#000;border-style:solid;border-top-width:4px;",
           "_params": {
             "hrColor": "#000",
             "bgColor": "#fff",
@@ -1198,7 +1198,7 @@
             "hrStyleShadow": false,
             "hrColorShadow": "#000",
             "hrThickness": "4",
-            "hrFullWidth": true,
+            "hrFullWidth": false,
             "hrWidth": 100,
             "hrPaddingBlock": 10
           },
