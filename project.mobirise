@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "AsimArt",
-    "currentPage": "Gallery.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -57,7 +57,7 @@
     "favicon": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "uniqCompNum": 22,
+    "uniqCompNum": 27,
     "versionPublish": "5.2.0",
     "screenshot": "screenshot.png"
   },
@@ -567,6 +567,43 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "hrColor": "border-color:#000;",
+          "hrShadowColor": "#000",
+          "hrThickness": "border-top-width:3px;",
+          "hrFullWidth": "min-width:0;",
+          "hrWidth": "width:100%;",
+          "hrStyle": "border-style:solid;",
+          "hrPaddingBlock": "padding-bottom:20px; padding-top:20px;",
+          "hrDrawStyle": "min-width:0;width:100%;border-color:#000;border-style:solid;border-top-width:3px;",
+          "_params": {
+            "hrColor": "#000",
+            "bgColor": "#fff",
+            "hrStyleSolid": true,
+            "hrStyleRounded": 3,
+            "hrStyleDotted": false,
+            "hrStyleDashed": false,
+            "hrStyleDouble": false,
+            "hrStyleShadow": false,
+            "hrColorShadow": "#000",
+            "hrThickness": 3,
+            "hrFullWidth": false,
+            "hrWidth": 100,
+            "hrPaddingBlock": 10
+          },
+          "_styles": {
+            "hr": {
+              "margin": "0"
+            }
+          },
+          "alias": "hrblock",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "hrblock-block",
+          "_sourceTheme": "mobirise5",
+          "_anchor": "hrblock-block-p"
         },
         {
           "alias": false,
@@ -1140,6 +1177,43 @@
           "_once": false,
           "_params": {},
           "_anchor": "share1-k"
+        },
+        {
+          "hrColor": "border-color:#000;",
+          "hrShadowColor": "#000",
+          "hrThickness": "border-top-width:3px;",
+          "hrFullWidth": "min-width:0;",
+          "hrWidth": "width:100%;",
+          "hrStyle": "border-style:solid;",
+          "hrPaddingBlock": "padding-bottom:20px; padding-top:20px;",
+          "hrDrawStyle": "min-width:0;width:100%;border-color:#000;border-style:solid;border-top-width:3px;",
+          "_params": {
+            "hrColor": "#000",
+            "bgColor": "#fff",
+            "hrStyleSolid": true,
+            "hrStyleRounded": 3,
+            "hrStyleDotted": false,
+            "hrStyleDashed": false,
+            "hrStyleDouble": false,
+            "hrStyleShadow": false,
+            "hrColorShadow": "#000",
+            "hrThickness": 3,
+            "hrFullWidth": false,
+            "hrWidth": 100,
+            "hrPaddingBlock": 10
+          },
+          "_styles": {
+            "hr": {
+              "margin": "0"
+            }
+          },
+          "alias": "hrblock",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "hrblock-block",
+          "_sourceTheme": "mobirise5",
+          "_anchor": "hrblock-block-q"
         },
         {
           "alias": false,

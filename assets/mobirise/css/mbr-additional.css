@@ -1128,6 +1128,9 @@ a {
 .cid-sqdhvGCfZO [class*=" socicon-"]:before {
   line-height: 55px;
 }
+#hrblock-block-p hr {
+  margin: 0;
+}
 .cid-sq87WXxSnJ {
   padding-top: 5rem;
   padding-bottom: 5rem;
@@ -1574,6 +1577,9 @@ a {
 .cid-sqdh7lk6sC [class^="socicon-"]:before,
 .cid-sqdh7lk6sC [class*=" socicon-"]:before {
   line-height: 55px;
+}
+#hrblock-block-q hr {
+  margin: 0;
 }
 .cid-sq8anjQguh {
   padding-top: 8rem;
