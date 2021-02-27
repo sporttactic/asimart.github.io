@@ -1439,6 +1439,39 @@ a {
     left: -1rem;
   }
 }
+.cid-sqdgzd4gGT {
+  padding-top: 3rem;
+  padding-bottom: 1rem;
+  background-color: #353535;
+}
+.cid-sqdgzd4gGT [class^="socicon-"]:before,
+.cid-sqdgzd4gGT [class*=" socicon-"]:before {
+  line-height: 55px;
+}
+.cid-sqdgzd4gGT .btn-social {
+  font-size: 32px;
+  border-radius: 50%;
+  width: 55px;
+  height: 55px;
+  line-height: 55px;
+  padding: 0;
+  position: relative;
+  cursor: pointer;
+  color: #2cba1f;
+  border-width: 2px;
+  transition: all .3s;
+  border-color: #2cba1f;
+}
+.cid-sqdgzd4gGT .btn-social:hover {
+  background: #2cba1f;
+}
+.cid-sqdgzd4gGT .btn-social:hover i.socicon {
+  color: #ffffff !important;
+}
+.cid-sqdgzd4gGT .mbr-section-title,
+.cid-sqdgzd4gGT .mbr-social-likes {
+  color: #ffffff;
+}
 .cid-sq8anjQguh {
   padding-top: 8rem;
   padding-bottom: 6rem;
